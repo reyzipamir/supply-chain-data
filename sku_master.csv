@@ -1,0 +1,4 @@
+sku_id,sku_name,category,abc_class,shelf_life_days,unit,pack_size,weight_kg,volume_m3
+SKU1,Widget A,Widget,A,365,piece,1,0.5,0.01
+SKU2,Widget B,Widget,B,180,piece,1,0.3,0.008
+SKU3,Gadget C,Gadget,C,90,piece,1,1.0,0.015

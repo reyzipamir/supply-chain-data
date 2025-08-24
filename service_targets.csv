@@ -1,0 +1,4 @@
+sku_id,site_id,target_csl
+SKU1,STORE1,0.95
+SKU2,STORE1,0.9
+SKU3,STORE1,0.85

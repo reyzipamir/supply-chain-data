@@ -1,0 +1,3 @@
+from_site_id,to_site_id,transport_mode,ship_freq_days,min_shipment_qty,transit_time_mean_days,cost_per_unit,carbon_kg_per_unit
+SUP1,DC1,truck,7,100,2,0.5,0.1
+DC1,STORE1,truck,3,10,1,0.2,0.05

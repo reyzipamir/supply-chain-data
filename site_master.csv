@@ -1,0 +1,4 @@
+site_id,site_type,region,latitude,longitude,capacity_units
+SUP1,SUPPLIER,EU,41.0,29.0,100000
+DC1,DC,Marmara,40.9,29.1,50000
+STORE1,STORE,Istanbul,41.02,28.96,2000

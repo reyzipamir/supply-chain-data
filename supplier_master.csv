@@ -1,0 +1,2 @@
+supplier_id,supplier_name,moq,lead_time_mean_days,lead_time_std_days
+SUP1,Supplier 1,100,15,2

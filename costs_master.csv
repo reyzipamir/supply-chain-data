@@ -1,0 +1,4 @@
+sku_id,holding_cost_rate_annual,stockout_penalty_per_unit,order_cost_fixed,unit_cost
+SKU1,0.25,5.0,100.0,10.0
+SKU2,0.20,4.0,80.0,15.0
+SKU3,0.30,6.0,120.0,8.0

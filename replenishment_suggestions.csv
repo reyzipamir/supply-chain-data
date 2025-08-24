@@ -1,0 +1,6 @@
+date,sku_id,from_site_id,to_site_id,net_available,rop_units,base_stock_units,order_qty_suggestion,chosen_transit_days,type
+2025-08-01,SKU1,DC1,STORE1,550,550,600,50,2,norm
+2025-08-01,SKU2,DC1,STORE1,420,420,460,40,2,norm
+2025-08-01,SKU3,DC1,STORE1,660,660,720,60,2,norm
+2025-08-02,SKU1,DC1,STORE1,530,550,600,70,2,expedite
+2025-08-02,SKU2,DC1,STORE1,400,420,460,60,2,expedite

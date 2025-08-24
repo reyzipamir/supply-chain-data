@@ -1,0 +1,4 @@
+order_id,from_site_id,to_site_id,order_date,receive_date,lead_time_days,qty
+PO1,SUP1,DC1,2025-07-20,2025-07-27,7,1000
+PO2,DC1,STORE1,2025-07-23,2025-07-25,2,600
+PO3,SUP1,DC1,2025-08-01,2025-08-08,7,900
